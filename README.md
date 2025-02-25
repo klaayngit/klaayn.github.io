@@ -3,7 +3,7 @@
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
   <title>
-   klaayn
+   Mubi Kishore
   </title>
   <script src="https://cdn.tailwindcss.com">
   </script>
@@ -17,8 +17,8 @@
  </head>
  <body class="bg-orange-600 text-gray-800">
   <header class="flex justify-between items-center p-6">
-   <div>
-    <img alt="Mubi Kishore logo" class="h-12" height="50" src="https://storage.googleapis.com/a1aa/image/zkn8ITpMofQ-40Z_suSMY8GzzxSZmMT4QpSC7_66xfg.jpg" width="150"/>
+   <div class="bg-orange-600 text-white text-2xl font-bold p-2">
+    Klaayn
    </div>
    <nav>
     <ul class="flex space-x-6 text-white">
@@ -52,10 +52,10 @@
   </header>
   <main class="text-center px-6">
    <h1 class="text-4xl font-bold text-gray-900 mt-12">
-    Hey! This is Mubi
+    Hey! This is Kalyan
    </h1>
    <p class="text-lg text-gray-900 mt-4">
-    I'm a photographer and filmmaker based in Tamilnadu, India.
+    I'm a graduate based in Tamilnadu, India.
    </p>
    <p class="text-lg text-gray-900 mt-4">
     I fell in love with making videos on internet when i was a kid, and yeah i've been chasing this crazy dream of mine since then.
@@ -87,6 +87,12 @@
      Newsletter
     </a>
    </div>
+   <p class="mt-4">
+    © 2025 MubiKishore. All rights reserved.
+   </p>
+  </footer>
+ </body>
+</html>
    <p class="mt-4">
     © 2025 MubiKishore. All rights reserved.
    </p>
