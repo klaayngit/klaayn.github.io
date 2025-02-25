@@ -3,7 +3,7 @@
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
   <title>
-   Mubi Kishore
+   Kalyan
   </title>
   <script src="https://cdn.tailwindcss.com">
   </script>
@@ -18,7 +18,7 @@
  <body class="bg-orange-600 text-gray-800">
   <header class="flex justify-between items-center p-6">
    <div class="bg-orange-600 text-white text-2xl font-bold p-2">
-    Klaayn
+    klaayn
    </div>
    <nav>
     <ul class="flex space-x-6 text-white">
@@ -87,12 +87,6 @@
      Newsletter
     </a>
    </div>
-   <p class="mt-4">
-    © 2025 MubiKishore. All rights reserved.
-   </p>
-  </footer>
- </body>
-</html>
    <p class="mt-4">
     © 2025 MubiKishore. All rights reserved.
    </p>
